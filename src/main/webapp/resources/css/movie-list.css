@@ -1,0 +1,56 @@
+#add {
+    margin: 20px 0px 20px 0px;
+    text-align: right;
+}
+
+.navbar {
+    background-color: #5cb85c;
+    font-size: large;
+}
+
+.navbar li:hover {
+    background-color: #c9e2b3;
+}
+
+.navbar-left {
+    float: right !important;
+}
+
+.panel-heading {
+    text-align: center;
+    font-size: 18px;
+    background-color: #2e6da4;
+}
+
+thead {
+   background-color: #5cb85c;
+}
+
+.table tr:nth-child(even) {
+    background-color: #c9e2b3;
+}
+
+td {
+    max-width: 30px;
+    text-align: center;
+}
+
+.dropdown-menu {
+    max-width: 40px;
+    min-width: 40px;
+}
+
+.dropdown-menu li {
+    max-width: 40px;
+    text-align: center;
+}
+
+.dropdown-menu li:hover {
+    background-color: #5cb85c;
+}
+
+#user-list-id {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
